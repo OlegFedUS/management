@@ -4,5 +4,4 @@ public class Worker extends Employee {
     public int getSalary() {
         return super.getSalary();
     }
-
 }
